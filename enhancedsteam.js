@@ -2810,7 +2810,7 @@ function add_community_profile_links() {
 		if (settings.profile_steamdbcalc === undefined) { settings.profile_steamdbcalc = true; storage.set({'profile_steamdbcalc': settings.profile_steamdbcalc}); }
 		if (settings.profile_astats === undefined) { settings.profile_astats = true; storage.set({'profile_astats': settings.profile_astats}); }
 		if (settings.profile_backpacktf === undefined) { settings.profile_backpacktf = true; storage.set({'profile_backpacktf': settings.profile_backpacktf}); }
-		if (settings.profile_dotabuff === undefined) { settings.profile_dotabuff = true; storage.set({'profile_dotabuff': settings.profile_dotabuff}); }
+		if (settings.profile_dotabuff === undefined) { settings.profile_dotabuff = false; storage.set({'profile_dotabuff': settings.profile_dotabuff}); }
 		if (settings.profile_astatsnl === undefined) { settings.profile_astatsnl = true; storage.set({'profile_astatsnl': settings.profile_astatsnl}); }
 		if (settings.profile_steamrepcn === undefined) { settings.profile_steamrepcn = true; storage.set({'profile_steamrepcn': settings.profile_steamrepcn}); }
 		
