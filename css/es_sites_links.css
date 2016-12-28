@@ -47,6 +47,9 @@
 .es_sites_icons.es_dotabuff_icon:after {
 	background-image: url("chrome-extension://__MSG_@@extension_id__/img/ico/dotabuff.png");
 }
+.es_sites_icons.es_opendota_icon:after {
+	background-image: url("chrome-extension://__MSG_@@extension_id__/img/ico/opendota.png");
+}
 .es_sites_icons.es_astatsnl_icon:after {
 	background-image: url("chrome-extension://__MSG_@@extension_id__/img/ico/astatsnl.png");
 }
