@@ -147,6 +147,7 @@ var settings_defaults = {
 	"profile_steamdbcalc": true,
 	"profile_astats": true,
 	"profile_backpacktf": true,
+	"profile_dotabuff": false,
 	"profile_opendota": false,
 	"profile_astatsnl": true,
 	"profile_permalink": true,
